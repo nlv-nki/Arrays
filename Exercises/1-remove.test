@@ -1,6 +1,6 @@
 ({
   name: 'removeElement',
-  length: [80, 130],
+  length: [80, 230],
   test: removeElement => {
     {
       const array = [1, 2, 3, 4, 5, 6, 7];
